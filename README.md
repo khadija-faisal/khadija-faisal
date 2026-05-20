@@ -100,7 +100,7 @@ Context carried across every turn — no repetition
 - **Nuralyxai Backend** — Multi-agent agentic AI system (private, pre-launch) → [nuralyxai.com](https://www.nuralyxai.com) currenlty nuralyxai repo is private for in [nuralyx](https://github.com/Nuralyx)
 - **Voice Genie** → [github.com/khadija-faisal/voice-genie](https://github.com/khadija-faisal/voice-genie)
 - **HunarBazar Marketplace** → [github.com/khadija-faisal/Marketplace_Technical_Foundation_Of_HunarBazar](https://github.com/khadija-faisal/Marketplace_Technical_Foundation_Of_HunarBazar)
-
+- **Sign Language-translator** → [github.com/khadija-faisal/sign-language-tranlator](https://github.com/khadija-faisal/sign-language-tranlator)
 ---
 
 
