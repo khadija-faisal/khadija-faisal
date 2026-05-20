@@ -25,7 +25,7 @@ I'm a backend engineer and agentic AI developer based in Karachi, Pakistan.
 
 I build systems that think — not just respond. My focus is on multi-agent architectures, production-grade API design, and AI systems that carry context, make decisions, and take real actions on behalf of users.
 
-I co-founded **Nuralyxai** and built its entire backend solo — from the first line of code to a production-ready system with auth, encryption, multi-agent orchestration, and Google API integrations. All of it, while being a student.
+I co-founded **Nuralyxai** and built its entire backend solo, from the first line of code to a production-ready system with auth, encryption, multi-agent orchestration, and Google API integrations. All of it, while being a student.
 
 What drives me is simple: I want to build things that make someone's actual day easier.
 
@@ -55,17 +55,7 @@ Orchestrator Agent  (routes intent to the right agent)
 Context carried across every turn — no repetition
 ```
 
-**What I built solo:**
-
-| Layer | Details |
-|-------|---------|
-| **AI Orchestration** | OpenAI Agents SDK, 5 specialized agents, SQLite-backed session memory, dynamic instruction injection |
-| **Google APIs** | Gmail API, Google Calendar API, OAuth 2.0 with scope-level access control |
-| **Security** | JWT authentication, Fernet encryption, token auto-refresh, PII sanitization on all inputs/outputs |
-| **Infrastructure** | FastAPI, SQLAlchemy, Alembic migrations, Uvicorn, uv package manager |
-| **Safety** | Input + output guardrails on every agent, domain allowlist, identity-bound tool calls |
-
-> 100+ files. Production-grade. Built from scratch as a student.
+> 500+ files. Production-grade. Built from scratch as a student.
 
 ---
 
@@ -107,7 +97,7 @@ Context carried across every turn — no repetition
 
 ## What I've Shipped
 
-- **Nuralyxai Backend** — Multi-agent agentic AI system (private, pre-launch) → [nuralyxai.com](https://www.nuralyxai.com)
+- **Nuralyxai Backend** — Multi-agent agentic AI system (private, pre-launch) → [nuralyxai.com](https://www.nuralyxai.com) currenlty nuralyxai repo is private for in [nuralyx](https://github.com/Nuralyx)
 - **Voice Genie** → [github.com/khadija-faisal/voice-genie](https://github.com/khadija-faisal/voice-genie)
 - **HunarBazar Marketplace** → [github.com/khadija-faisal/Marketplace_Technical_Foundation_Of_HunarBazar](https://github.com/khadija-faisal/Marketplace_Technical_Foundation_Of_HunarBazar)
 
@@ -118,7 +108,7 @@ Context carried across every turn — no repetition
 
 <div align="center">
 
-*"Most products are built by teams. I built ours alone."*
+*"Our product is built by a small but great team."*
 
 **[nuralyxai.com](https://www.nuralyxai.com)**
 
