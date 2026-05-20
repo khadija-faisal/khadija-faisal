@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/nuralyxai.com-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://www.nuralyxai.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/1khadijamughal)
 
-![Profile Views](https://komarev.com/ghpvc/?username=khadija-faisal&color=7C3AED&style=flat-square)
+
 
 </div>
 
@@ -113,17 +113,8 @@ Context carried across every turn — no repetition
 
 ---
 
-## GitHub Stats
 
-<div align="center">
 
-![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadija-faisal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-faisal&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED)
-
-</div>
-
----
 
 <div align="center">
 
